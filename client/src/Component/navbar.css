@@ -1,0 +1,21 @@
+/* navbar.css */
+.navbar-custom {
+    background-color: #6c757d; /* Grey background */
+    color: black; /* Black text */
+  
+    .navbar-brand,
+    .nav-link {
+      color: black; /* Set text color to black */
+      font-size: 18px; /* Increase font size */
+      padding: 10px 15px; /* Add padding for better spacing */
+    }
+  
+    .nav-link:hover {
+      color: #333333; /* Darker grey text on hover */
+    }
+  
+    .navbar-brand {
+      font-weight: bold; /* Make the brand name bold */
+    }
+  }
+  
